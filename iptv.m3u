@@ -1,4 +1,3 @@
-EXTM3U
 #EXTINF:-1 tvg-id="Sinema Tv.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinematv_logo_A0CC7C58-E100-4C18-8B8D-BF961C4F785E.png"  group-title="Sinema", Sinema TV
 http://65.108.239.207/sinema/index.m3u8
 #EXTINF:-1 tvg-id="Sinema Tv 2.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinema2_logo_C0C84D85-E6DD-4807-B52F-277AD04EAE22.png" group-title="Sinema", Sinema TV 2
@@ -22,4 +21,5 @@ http://65.108.239.207/sinemaaksiyon2/index.m3u8
 #EXTINF:-1 tvg-id="Sinema Tv 1001.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinema1001_logo_CA7B6954-4A94-455B-9A1F-5FC54D88B982.png" group-title="Sinema",Sinema 1001
 http://65.108.239.207/sinema1001/index.m3u8
 #EXTINF:-1 tvg-id="Sinema Tv 1002.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinema1002_logo_FEC606FA-0E12-4B71-AE3A-E9879A6AB678.png" group-title="Sinema", Sinema 1002
+
 http://65.108.239.207/sinema1002/index.m3u8
