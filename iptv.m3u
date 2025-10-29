@@ -22,6 +22,5 @@ http://65.108.239.207/sinemaaksiyon2/index.m3u8
 #EXTINF:-1 tvg-id="Sinema Tv 1001.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinema1001_logo_CA7B6954-4A94-455B-9A1F-5FC54D88B982.png" group-title="Sinema",Sinema 1001
 http://65.108.239.207/sinema1001/index.m3u8
 #EXTINF:-1 tvg-id="Sinema Tv 1002.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinema1002_logo_FEC606FA-0E12-4B71-AE3A-E9879A6AB678.png" group-title="Sinema", Sinema 1002
-
-http://65.108.239.207/sinema1002/index.m3u8
-
+#EXTINF:-1 tvg-id="STAR TV.tr" tvg-logo="https://filbox.com.tr/channellogos/star.png" group-title="Ulusal", STAR TV HD
+https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
