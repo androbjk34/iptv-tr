@@ -37,8 +37,10 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
 https//162.212.179.33:80/gin-dvrfl05/gin-beinsportshaber/tracks-v1a1/rewind-128800.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="Spor", Bein Sports 1 HD
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
-
-
+#EXTINF:-1 tvg-id="Love Nature.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/u/6a/18359/Thumbnail.png?v=637194414598070635" group-title="Belgesel", Love Nature HD
+http://95.67.12.82:9098/
+#EXTINF:-1 tvg-id="DISNEYJR" tvg-logo="https://cdn.ssportplus.com/35/3165/pTdVMnEb5953/pTdVMnEb5953.jpg" group-title="Çocuk", DISNEY JR.
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
 
 
 
