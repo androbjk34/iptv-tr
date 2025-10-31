@@ -37,10 +37,17 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
 https//162.212.179.33:80/gin-dvrfl05/gin-beinsportshaber/tracks-v1a1/rewind-128800.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="Spor", Bein Sports 1 HD
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="NAT.GEO.WILD.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/U/GH/16199/Thumbnail.png?v=637141612229716915" group-title="Belgesel", NAT GEO WİLD HD
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 tvg-id="NATIONAL GEO..tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/V/zw/16198/Thumbnail.png?v=637080263252321251" group-title="Belgesel", NAT GEO HD
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 tvg-id="Tarih TV HD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/1/Fd/58626/Thumbnail.png?v=638288263696795101" group-title="Belgesel", Tarih TV HD
+https://ds.ayakkabiparti.lol/tarihtv/index.m3u8
 #EXTINF:-1 tvg-id="Love Nature.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/u/6a/18359/Thumbnail.png?v=637194414598070635" group-title="Belgesel", Love Nature HD
 http://95.67.12.82:9098/
 #EXTINF:-1 tvg-id="DISNEYJR" tvg-logo="https://cdn.ssportplus.com/35/3165/pTdVMnEb5953/pTdVMnEb5953.jpg" group-title="Çocuk", DISNEY JR.
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
+
 
 
 
