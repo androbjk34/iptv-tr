@@ -35,8 +35,8 @@ https://saran-live.ercdn.net/fx/index.m3u8
 https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
 #EXTINF:-1 tvg-id="Kanal D.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/kanald_250x150.png" group-title="Ulusal", KANAL D HD
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
-#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="Spor", Bein Sports Haber
-https//162.212.179.33:80/gin-dvrfl05/gin-beinsportshaber/tracks-v1a1/rewind-128800.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="Spor", Bein Sports 2 HD
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 2.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png" group-title="Spor", Bein Sports 2 HD
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-id="NAT.GEO.WILD.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/U/GH/16199/Thumbnail.png?v=637141612229716915" group-title="Belgesel", NAT GEO WİLD HD
@@ -55,6 +55,7 @@ http://95.67.12.82:9098/
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 2.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png" group-title="Spor", Bein Sports 2 HD
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
+
 
 
 
