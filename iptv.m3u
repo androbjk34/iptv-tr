@@ -41,8 +41,8 @@ https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/m
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 tvg-id="FX.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/w/Uq/16203/Thumbnail.png?v=637080272246525439" group-title="Dizi", FX TV HD
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-id="BeINSportsHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/8b/Arzu_film_logo.jpg/250px-Arzu_film_logo.jpg" group-title="Spor", Bein Sports Haber
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/tv-vin/bein-sports-haber.m3u8
+#EXTINF:-1 tvg-id="BeINSportsHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/8b/Arzu_film_logo.jpg/250px-Arzu_film_logo.jpg" group-title="Spor", Bein Sports Test
+https://withered-bread-83ae.kentseltayland.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="Spor", Bein Sports 1 HD
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS 2.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png" group-title="Spor", Bein Sports 2 HD
@@ -61,6 +61,7 @@ https://ds.ayakkabiparti.lol/history/index.m3u8
 http://95.67.12.82:9098/
 #EXTINF:-1 tvg-id="DISNEYJR" tvg-logo="https://cdn.ssportplus.com/35/3165/pTdVMnEb5953/pTdVMnEb5953.jpg" group-title="Çocuk", DISNEY JR.
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
+
 
 
 
