@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TRT 1.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trt1_250x150.png" group-title="Ulusal", TRT 1 HD
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+https://trt.daioncdn.net/trt-1/master.m3u8
 #EXTINF:-1 tvg-id="STAR TV.tr" tvg-logo="https://filbox.com.tr/channellogos/star.png" group-title="Ulusal", STAR TV HD
 https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/kanald_250x150.png" group-title="Ulusal", KANAL D HD
