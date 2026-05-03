@@ -74,36 +74,12 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-id="BBC EARTH.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/Bj/11896/Thumbnail.png?v=636996527021886315" group-title="Belgesel", BBC EARTH HD
 https://ds.ayakkabiparti.lol/bbc/index.m3u8
 #EXTINF:-1 tvg-id="TARİH TV.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/1/Fd/58626/Thumbnail.png?v=638288263696795101" group-title="Belgesel", Tarih TV HD
-https://ds.ayakkabiparti.lol/tarihtv/index.m3u8
+https://aleeeex.denek1544.workers.dev/izle/tarihtv.m3u8
 #EXTINF:-1 tvg-id="History Channel.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/y/Ey/37198/Thumbnail.png?v=637554127141657600" group-title="Belgesel", HISTORY HD
-https://ds.ayakkabiparti.lol/history/index.m3u8
+https://aleeeex.denek1544.workers.dev/izle/historychannel.m3u8
 #EXTINF:-1 tvg-id="LoveNature.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/u/6a/18359/Thumbnail.png?v=637194414598070635" group-title="Belgesel", Love Nature HD
 https://aleeeex.denek1544.workers.dev/izle/lovenature.m3u8
 #EXTINF:-1 tvg-id="DISNEY JUNIOR.tr" tvg-logo="https://cdn.ssportplus.com/35/3165/pTdVMnEb5953/pTdVMnEb5953.jpg" group-title="Çocuk", DISNEY JR.
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="Da Vinci.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinematv_logo_A0CC7C58-E100-4C18-8B8D-BF961C4F785E.png"  group-title="Belgesel", Davinci Learning
-http://87.121.104.29:1071/kemalsunal/stream.m3u8?token=0a362d28fb2d87789530bb32bb17efcc
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+http://87.121.104.29:1071/kemalsunal/stream.m3u8?token=0a362d28fb2d87789530bb32bb17e
